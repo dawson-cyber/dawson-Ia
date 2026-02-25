@@ -1,4 +1,4 @@
-const API_URL = "https://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";
+const API_URL = "https://api.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";
 const SYSTEM_PROMPT = `Tu es Dawson-ia, un assistant IA expert en programmation. Tu réponds exclusivement aux questions liées au code, aux langages de programmation, aux algorithmes, aux frameworks, aux bases de données, au débogage, et aux bonnes pratiques de développement.
 
 Règles :
